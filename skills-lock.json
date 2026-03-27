@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "skills": {
+    "api-reference": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "8f8b975eb65171f82b7d4ab79331be57088ea8ba89cde30442a43b3dc2a2dd7c"
+    },
+    "check-compatibility": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "eb1491dd8c48c3e66d018988c553b2335d0b70f6156de00e862cf4e0df7a072f"
+    },
+    "check-org-details": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "2e531c76dd7ec77c4e648cde2358761b60d27f765e2195dea2ebb04b01a761cd"
+    },
+    "fetch-api-reference": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "57758af320063d6b98f688d8c7578d739cb7499cc49a8df8618840195d0be762"
+    },
+    "integrate-audio": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "06d456b0ed47190074a2a4bb26c9ab856750d260e58236bebec468ea1d0552b8"
+    },
+    "integrate-character-embed": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "bfad722d453ed5ea0610e871a7ef5e689df6d5aa0bb02d4aa864d8843a4aec39"
+    },
+    "integrate-characters": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "c2cb50504ec609e1685a67f8e1c46287f402db7afbd27f093998d1c8ed339b42"
+    },
+    "integrate-documents": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "e174c7a8503f88ac980f92c1ce3029af4e75b03dc480abb3fe1c6b36c0ce40c9"
+    },
+    "integrate-image": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "36ab04488c32dda659093447be3dc12ce732729e5bf95fca6306e85792de8b20"
+    },
+    "integrate-uploads": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "880f1e4ff3ca2b77de4b80383289cc7d43d5a82b839c5adb696a24c20b6d1617"
+    },
+    "integrate-video": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "1a8b59d243e8ed5a71d8e83eb913780b3a7cd6595c7e547156dc91679dc0809b"
+    },
+    "recipe-full-setup": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "d29c9298d3081d8e01a7c34748e8617c377481dda5b35717471d8f347ce38596"
+    },
+    "setup-api-key": {
+      "source": "runwayml/skills",
+      "sourceType": "github",
+      "computedHash": "612d7b15110708dc73fe0f7376a54c93cb0062da41d3ea743b7c15b748e31df4"
+    }
+  }
+}
