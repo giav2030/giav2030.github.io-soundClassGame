@@ -10,24 +10,12 @@
 let soundClassifier;
 let soundModel = '...';
 let words = [
-  // "zero",
-  // "one",
-  // "two",
-  // "three",
-  // "four",
-  // "five",
-  // "six",
-  // "seven",
-  // "eight",
-  // "nine",
+  
   "up",
   "down",
   "left",
   "right"
-  // "go",
-  // "stop",
-  // "yes",
-  // "no",
+
 ];
 let x, y;
 let predictedWord = "";
